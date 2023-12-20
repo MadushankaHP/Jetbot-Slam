@@ -1,2 +1,2 @@
 # Jetbot-Slam
-Create slam map  using any custom robots with joystick
+Create slam map  usin jetbot robots with joystick
