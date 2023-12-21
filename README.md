@@ -25,7 +25,7 @@ Ensure the following prerequisites are installed before using the project:
 
 **Usage**
 
-Launch the connection check node:
+Launch the jetbot slam node:
    ```bash
    roslaunch jetbot_slam slam_run.launch
   ```
